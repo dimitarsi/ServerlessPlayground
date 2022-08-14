@@ -1,0 +1,4 @@
+{
+  "API_ENDPOINT": "https://<ID>.execute-api.<REGION>.amazonaws.com",
+  "UPLOAD_URL": "/<URL>"
+}
