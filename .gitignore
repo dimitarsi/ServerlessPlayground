@@ -1,0 +1,4 @@
+node_modules
+nodejs
+build
+*.ps1
